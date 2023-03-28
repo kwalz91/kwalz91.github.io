@@ -12,4 +12,4 @@ I hold a B.A. and an M.A. in *Political and Social Sciences* from the *Universit
 
 Here you can download my CV.
 
-![](CV_pagedown.html){width=100% height=100%}
+![](CV_pagedown.html){width=100% height= 500}
