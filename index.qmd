@@ -22,4 +22,4 @@ I am a Ph.D. student in the interdisciplinary Graduate Research Group [*Resilien
 
 My research interests cluster around means of comparative politics and especially democracy research. In particular, I engage in issues of comparative regime research, democratic legitimacy and deficit, the transformation of political systems, and democratic resilience.
 
-You can find my full CV here.
+You can find my full CV [here](about.qmd).
