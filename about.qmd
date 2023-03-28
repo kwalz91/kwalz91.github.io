@@ -13,6 +13,6 @@ I hold a B.A. and an M.A. in *Political and Social Sciences* from the *Universit
 Here you can download my CV.
 
 ``` r
-openPDF("CV_pagedown.pdf")
+openPDF("CV_pagedown.pdf", bg=TRUE)
 ```
 
