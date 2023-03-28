@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 
 ::: {. callout note}
 
-Currently, I am **Ph.D. Student in Political Science** of the **Graduate Research Group [Resilient Institutions**] (https://resilient.institutions.uni-mainz.de/) at the **University of Mainz**.
+Currently, I am **Ph.D. Student in Political Science** of the Graduate Research Group **Resilient Institutions** at the **University of Mainz**.
 
-I receive a scholarship founded by the \[**Gutenberg Council for Young Researchers**\] (https://www.gyr.uni-mainz.de/). 
+I receive a scholarship founded by the **Gutenberg Council for Young Researchers**
 :::
