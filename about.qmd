@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-::: {.callout-note appearance="simple"}
+::: {.callout-note appearance="simple" icon= false}
 
 ## Current Position
 
