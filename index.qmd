@@ -1,6 +1,18 @@
 ---
-title: "Kevin Walz, M.A."
+title: "Kevin Walz"
 subtitle: Comparative Politics. Democracy Research. 
+image: Walz.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Twitter
+      href: https://twitter.com/KevinWalz18
+    - text: Mastodon
+      href: https://sciences.social/@kwalz
+    - text: GitHub
+      href: https://github.com/kwalz91
 ---
 
 I am a PhD student in the interdisciplinary Graduate Research Group *Resilient Institutions* at the University of Mainz.
