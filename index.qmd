@@ -1,11 +1,10 @@
 ---
-title: "kwalz91.github.io"
+title: "Kevin Walz, M.A."
+subtitle: Comparative Politics. Democracy Research. 
 ---
 
-This is a Quarto website.
+I am a PhD student in the interdisciplinary Graduate Research Group *Resilient Institutions* at the University of Mainz.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research interests cluster around means of comparative politics and especially democracy research. In particular, I engage in issues of comparative regime research, democratic legitimacy and deficit, the transformation of political systems, and democratic resilience.
 
-```{r}
-1 + 1
-```
+You can find my full CV here.
