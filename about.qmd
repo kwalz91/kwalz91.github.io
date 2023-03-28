@@ -11,7 +11,3 @@ In my dissertation project on *Episodes of democratic erosion -- sequences, oppo
 I hold a B.A. and an M.A. in *Political and Social Sciences* from the *University of Würzburg*.
 
 Here you can download my CV.
-
-``` r
-openPDF("CV_pagedown.pdf", bg=TRUE)
-```
