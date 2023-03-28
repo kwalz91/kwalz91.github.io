@@ -6,5 +6,5 @@ title: "Curriculum Vitae"
 
 Currently, I am **Ph.D. Student in Political Science** of the Graduate Research Group **Resilient Institutions** at the **University of Mainz**.
 
-I receive a scholarship founded by the **Gutenberg Council for Young Researchers**
+I receive a scholarship founded by the **Gutenberg Council for Young Researchers**.
 :::
