@@ -6,7 +6,7 @@ Currently, I am *Ph.D. Student in Political Science* of the Graduate Research Gr
 
 I receive a scholarship founded by the *Gutenberg Council for Young Researchers*.
 
-In my dissertation project on *Episodes of democratic erosion -- sequences, opportunity structures, and patterns of autocratization* under the supervision of [Claudia Landwehr](https://theorie.politik.uni-mainz.de/univ-prof-dr-claudia-landwehr/), I am aiming to contribute to the debate on democratic resilience. 
+In my dissertation project on *Episodes of democratic erosion -- sequences, opportunity structures, and patterns of autocratization* under the supervision of [Claudia Landwehr](https://theorie.politik.uni-mainz.de/univ-prof-dr-claudia-landwehr/), I am aiming to contribute to the debate on democratic resilience.
 
 I hold a B.A. and an M.A. in *Political and Social Sciences* from the *University of Würzburg*.
 
@@ -15,4 +15,3 @@ Here you can download my CV.
 ``` r
 openPDF("CV_pagedown.pdf", bg=TRUE)
 ```
-
