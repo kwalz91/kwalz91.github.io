@@ -2,7 +2,9 @@
 title: "Curriculum Vitae"
 ---
 
-::: {.callout-note} # Current Position
+::: {.callout-note appearance="simple"}
+
+## Current Position
 
 Currently, I am **Ph.D. Student in Political Science** of the Graduate Research Group [**Resilient Institutions**](https://resilient.institutions.uni-mainz.de/)  at the **University of Mainz**.
 
