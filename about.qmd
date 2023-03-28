@@ -2,11 +2,18 @@
 title: "Curriculum Vitae"
 ---
 
-::: {.callout-note icon=false }
-
+::: {.callout-note icon="false"}
 ## Current Position
 
-Currently, I am **Ph.D. Student in Political Science** of the Graduate Research Group [**Resilient Institutions**](https://resilient.institutions.uni-mainz.de/)  at the **University of Mainz**.
+Currently, I am **Ph.D. Student in Political Science** of the Graduate Research Group [**Resilient Institutions**](https://resilient.institutions.uni-mainz.de/) at the **University of Mainz**.
 
 I receive a scholarship founded by the [**Gutenberg Council for Young Researchers**](https://www.gyr.uni-mainz.de/).
+:::
+
+In my dissertation project under the supervision of [**Claudia Landwehr**](https://theorie.politik.uni-mainz.de/univ-prof-dr-claudia-landwehr/), I examine **Episodes of democratic erosion -- sequences, opportunity structures, and patterns of autocratization** aiming to contribute to the debate on democratic resilience. 
+
+I hold a B.A. and an M.A. in **Political and Social Sciences** from the **University of Würzburg**.
+
+::: {.callout-note icon="false"}
+Here you can download my CV
 :::
