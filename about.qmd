@@ -1,5 +1,8 @@
 ---
 title: "Curriculum Vitae"
+resources: 
+  - "CV_pagedown.pdf"
+  - "CV_pagedown.html"
 ---
 
 Currently, I am *Ph.D. Student in Political Science* of the Graduate Research Group [Resilient Institutions](https://resilient.institutions.uni-mainz.de/) at the *University of Mainz*.
@@ -10,6 +13,6 @@ In my dissertation project on *Episodes of democratic erosion -- sequences, oppo
 
 I hold a B.A. and an M.A. in *Political and Social Sciences* from the *University of Würzburg*.
 
-You can download my CV [here](CV_pagedown.html).
+You can download my CV [here](CV_pagedown.pdf).
 
 ![](CV_pagedown.html){width=100% height=500}
