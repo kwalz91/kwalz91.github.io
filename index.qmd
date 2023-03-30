@@ -16,7 +16,7 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/kwalz91
-    - icon: email
+    - icon: envelope-at-fill
       text: E-Mail
       href: mailto:kwalz@uni-mainz.de
 ---
