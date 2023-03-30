@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "kwalz91.github.io"
+  title: "KW"
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd

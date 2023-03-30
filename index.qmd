@@ -16,6 +16,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/kwalz91
+    - icon: mail
+      text: E-Mail
+      href: mailto:kwalz@uni-mainz.de
 ---
 
 I am a Ph.D. student of the interdisciplinary Graduate Research Group [Resilient Institutions](https://resilient.institutions.uni-mainz.de/) at the University of Mainz.
