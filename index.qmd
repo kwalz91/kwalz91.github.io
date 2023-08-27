@@ -1,6 +1,6 @@
 ---
 title: "Kevin Walz"
-subtitle: Comparative Politics. Democracy Research. 
+subtitle: Comparative Politics. Democracy Research.
 image: Walz.jpg
 about: 
   template: solana
@@ -23,6 +23,6 @@ about:
 
 I am a Ph.D. student of the interdisciplinary Graduate Research Group [Resilient Institutions](https://resilient.institutions.uni-mainz.de/) at the University of Mainz.
 
-My research interests cluster around means of comparative politics and especially democracy research on the macro-level. In particular, I am interested in *why* and *how* Democracies decline, what makes Democracies more or less resilient in the face of contemporary stressors, and what we can learn from this for sustainable democratic (re-)institutionalization.
+My research interests cluster around means of Comparative Politics and especially Democracy Research on the macro-level. In particular, I am interested in *why* and *how* Democracies decline, what makes Democracies more or less resilient in the face of contemporary stressors, and what we can learn from this for sustainable democratic (re-)institutionalization.
 
 You can find my full CV [here](about.qmd).
