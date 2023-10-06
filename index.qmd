@@ -7,7 +7,7 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - icon: bluesky
+    - icon: square-full
       text: Bluesky
       href: https://bsky.app/profile/kwalz.bsky.social
     - icon: mastodon
