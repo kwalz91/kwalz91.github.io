@@ -7,9 +7,9 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/KevinWalz18
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/kwalz.bsky.social
     - icon: mastodon
       text: Mastodon
       href: https://sciences.social/@kwalz
