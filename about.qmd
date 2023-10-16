@@ -10,4 +10,4 @@ In my dissertation project on *Anti-Pluralists, Democratic Erosion, and the Brea
 
 I hold a B.A. and an M.A. in *Political and Social Sciences* from the *University of Würzburg*.
 
-![Curriculum Vitae](Kevin Walz’s resume.pdf){width=100% length="100%"}
+![Curriculum Vitae](Kevin Walz’s resume.pdf){width=100% length=100%}
