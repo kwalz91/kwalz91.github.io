@@ -7,12 +7,9 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - icon: square-full
+    - icon: hashtag
       text: Bluesky
       href: https://bsky.app/profile/kwalz.bsky.social
-    - icon: mastodon
-      text: Mastodon
-      href: https://sciences.social/@kwalz
     - icon: github
       text: GitHub
       href: https://github.com/kwalz91
