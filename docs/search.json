@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Curriculum Vitae",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Currently, I am a Ph.D. Student in Political Science of the Graduate Research Group Resilient Institutions at the University of Mainz.\nI receive a doctoral scholarship founded by the Gutenberg Council for Young Researchers.\nIn my dissertation project on Anti-Pluralists, Democratic Erosion, and the Breakdown Resilience of Democratic Regimes under Claudia Landwehr’s supervision, I aim to contribute to the debate on Democratic Resilience.\nI hold a B.A. and an M.A. in Political and Social Sciences from the University of Würzburg."
+    "text": "I have loved teaching since my first tutorials as a Teaching Assistant at the University of Würzburg during my Master’s program. For the present and future, I pursue the claim to offer research-oriented and innovative teaching, thereby attracting students to subjects related to democracy research sustainably."
+  },
+  {
+    "objectID": "teaching.html#advanced-module-courses",
+    "href": "teaching.html#advanced-module-courses",
+    "title": "Teaching",
+    "section": "Advanced Module Courses",
+    "text": "Advanced Module Courses\n\nWinter 2022/23: Theory and Empiricism of Democratic Erosion, Advanced Module Course (B.A. & M.Ed.), University of Mainz"
+  },
+  {
+    "objectID": "teaching.html#tutorials-as-a-teaching-assistant",
+    "href": "teaching.html#tutorials-as-a-teaching-assistant",
+    "title": "Teaching",
+    "section": "Tutorials as a Teaching Assistant",
+    "text": "Tutorials as a Teaching Assistant\n\n2018 – 2020: Introduction to Political Philosophy, University of Würzburg\n2018 – 2020: Introduction to Comparative Politics, University of Würzburg\n2018 – 2020: Introduction to the Political System of the FRG, University of Würzburg"
   },
   {
     "objectID": "index.html",
@@ -12,6 +26,13 @@
     "title": "Kevin Walz",
     "section": "",
     "text": "I am a Ph.D. student of the interdisciplinary Graduate Research Group Resilient Institutions at the University of Mainz.\nMy research interests cluster around means of Comparative Politics and especially Democracy Research on the macro-level. In particular, I am interested in why and how Democracies decline, what makes Democracies more or less resilient in the face of contemporary stressors, and what we can learn from this for sustainable democratic (re-)institutionalization.\nYou can find my full CV here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Currently, I am a Ph.D. Student in Political Science of the Graduate Research Group Resilient Institutions at the University of Mainz.\nI receive a doctoral scholarship founded by the Gutenberg Council for Young Researchers.\nIn my dissertation project on Anti-Pluralists, Democratic Erosion, and the Breakdown Resilience of Democratic Regimes under Claudia Landwehr’s supervision, I aim to contribute to the debate on Democratic Resilience.\nI hold a B.A. and an M.A. in Political and Social Sciences from the University of Würzburg."
   },
   {
     "objectID": "research.html",
@@ -47,26 +68,5 @@
     "title": "Research",
     "section": "A new game in town: Democratic resilience and the added value of the concept in explaining democratic survival and decline",
     "text": "A new game in town: Democratic resilience and the added value of the concept in explaining democratic survival and decline\nwith Johannes Helgest, Lion Merten, Jana Niedringhaus, and Matthias Rosenthal\nResilience has become a hot topic in research due to impactful events and processes such as the global climate crisis or the Covid-19 pandemic. Nevertheless, research linking resilience with democratic processes is still spread thin. This paper aims to contribute to this research field by examining the concepts of resilience throughout various disciplines and applying them to the context of democracies, building on recent advances in this field. In our view, democratic resilience is best understood as a democratic system’s capacity to process upcoming stressors. This capacity can moderate the extent to which a certain stressor poses a threat to the system. Consequently, this moderation can result in five different outcome scenarios on the regime level – improvement, continuation, bounce back, decline, and breakdown. We argue that in comparison with traditional approaches such as democratic consolidation the concept of democratic resilience holds significant added value. This is mostly due to the concept’s dynamic character and its ability to analytically include certain stressors, which enables a more fine-grained understanding of democratic survival and decline."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "I have loved teaching since my first tutorials as a Teaching Assistant at the University of Würzburg during my Master’s program. For the present and future, I pursue the claim to offer research-oriented and innovative teaching, thereby attracting students to subjects related to democracy research sustainably."
-  },
-  {
-    "objectID": "teaching.html#advanced-module-courses",
-    "href": "teaching.html#advanced-module-courses",
-    "title": "Teaching",
-    "section": "Advanced Module Courses",
-    "text": "Advanced Module Courses\n\nWinter 2022/23: Theory and Empiricism of Democratic Erosion, Advanced Module Course (B.A. & M.Ed.), University of Mainz"
-  },
-  {
-    "objectID": "teaching.html#tutorials-as-a-teaching-assistant",
-    "href": "teaching.html#tutorials-as-a-teaching-assistant",
-    "title": "Teaching",
-    "section": "Tutorials as a Teaching Assistant",
-    "text": "Tutorials as a Teaching Assistant\n\n2018 – 2020: Introduction to Political Philosophy, University of Würzburg\n2018 – 2020: Introduction to Comparative Politics, University of Würzburg\n2018 – 2020: Introduction to the Political System of the FRG, University of Würzburg"
   }
 ]
